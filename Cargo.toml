@@ -1,0 +1,2 @@
+[workspace]
+members =["simple-chat-server","my-redis","mini-redis-server-home-made"]
